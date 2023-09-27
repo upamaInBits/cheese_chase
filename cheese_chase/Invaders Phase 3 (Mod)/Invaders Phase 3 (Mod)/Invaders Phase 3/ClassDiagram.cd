@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Object_Block">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Object_Block.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Bullets">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAABAAAAAAAAAAAAgAACAAAAIAAA=</HashCode>
+      <FileName>Object_Bullets.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Bullets_Player">
+    <Position X="2" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAA=</HashCode>
+      <FileName>Object_Bullets_Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Game" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAABACABAAAAAAAAw4BBkAEBIAAA=</HashCode>
+      <FileName>Object_Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Mobile">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>Object_Mobile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Player">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAABAAAAABAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Object_Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

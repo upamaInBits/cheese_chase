@@ -1,0 +1,47 @@
+﻿  GameController.cpp
+  Graphics.cpp
+  Level_Game.cpp
+  Level_GameOver.cpp
+  Level_Loading.cpp
+  Level_Main.cpp
+  main.cpp
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\main.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Object_Block.cpp
+  Object_Bullets.cpp
+  Object_Bullets_Player.cpp
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Bullets_Player.cpp(20,21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Bullets_Player.cpp(21,22): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Bullets_Player.cpp(31,46): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Bullets_Player.cpp(32,47): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Object_Game.cpp
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Game.cpp(32,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Game.cpp(36,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Object_Fire.cpp
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(18,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(19,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(24,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(25,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(55,21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(56,22): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(67,46): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(68,47): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(73,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(74,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(87,46): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Fire.cpp(88,47): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+  Object_Mobile.cpp
+  Object_Player.cpp
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(18,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(19,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(47,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(48,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(74,21): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(75,22): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(85,46): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(86,47): warning C4244: '=': conversion from 'float' to 'LONG', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(102,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Invaders Phase 3\Object_Player.cpp(103,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Object_Text.cpp
+  SpriteSheet.cpp
+  Generating Code...
+  Invaders Phase 3.vcxproj -> C:\Users\upama\Downloads\Upama_Assignment 10\Upama_Assignment 10\Invaders Phase 3 (Mod)\Invaders Phase 3 (Mod)\Debug\Invaders Phase 3.exe
